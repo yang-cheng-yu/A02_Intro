@@ -1,7 +1,7 @@
-while (true) {
-
-};
-
 var useless = 0;
+
+while (true) {
+  useless += 1;
+};
 
 #comment
