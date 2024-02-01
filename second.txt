@@ -1,3 +1,5 @@
 while (true) {
 
 };
+
+var useless = 0;
